@@ -1,0 +1,10 @@
+{
+    "NumberOfNFT" : 20,
+    "TokenName" : "testkoreanmfers",
+    "TokenSymbol" : "tkorm",
+    "TreasuryAccount": "0xe682447BC45fEFdcF0f05f560f74C033e386E554",
+    "PrivateKey": "0x117cece35207cb32ef19ada68e774d9424a4c07668581218a26b9b1e8ad19ae0",
+    "pinataApiKey":"cfd2f4a9177a81ddbc5e",
+    "pinataSecretApiKey": "e3ac1dfe7023873bb1e4822484c56471567a974830a395eb50fbabb0105ec527",
+    "imageExtension" : "png"
+}
